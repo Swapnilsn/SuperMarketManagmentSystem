@@ -6,7 +6,7 @@ It was developed on  Netbeans IDE using Java Lanaguage and for backend using Mys
 
 **For Admin Login**
 
-Username:Admin
+Username:Admin   ** and **
 Password:Admin@gmail.com
 
 **Features:**
